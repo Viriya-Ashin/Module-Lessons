@@ -1,0 +1,35 @@
+
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 50px;
+      }
+      th,
+      td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+      }
+      th {
+        background-color: #797777;
+        color: whitesmoke;
+        padding: 15px 25px;
+        font-size: 1.5rem;
+      }
+      td{
+        padding: 10px 20px;
+        font-size: 1.2rem;
+      }
+      tr:hover {
+        background-color: #F5F5F5;
+      }
+#repoName{
+color: maroon;}
+#githubLink{
+color: blue;
+text-decoration: underline;}
